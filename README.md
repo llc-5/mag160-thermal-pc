@@ -11,6 +11,8 @@
 
 **[→ Releases 页面](https://github.com/llc-5/mag160-thermal-pc/releases/latest)**
 
+> 第一次用先看 **[使用手册](使用手册.md)** —— 界面每个区域的含义、常见问题排查都在里面。
+
 | 附件 | 大小 | 说明 |
 |---|---|---|
 | `MAG160-Thermal-Win64-Portable.exe` | 157 MB | **单文件版，双击就用**，免安装。启动约 16 秒（要先解包） |
