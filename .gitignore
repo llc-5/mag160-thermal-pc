@@ -1,15 +1,23 @@
 # 不纳入版本库的东西
 # 都是可重建的构建产物，或者超过 GitHub 单文件 100MB 限制
 
-# 主程序目录（412MB，由 mag160-pc/release.py 生成）
+# 主程序目录（由 mag160-pc/release.py 生成）
 MagViewerPC_v7/
 MagViewerPC_v7_old/
+MagViewerPC_v7_old_*/
 
-# 单文件版（157MB，超过 GitHub 硬限制 100MB）
+# 单文件版（超过 GitHub 硬限制 100MB）
 MAG160热像仪-单文件.exe
+MAG160热像仪-单文件_v*.exe
 
 # USB 诊断工具（63MB，构建产物）
 CheckDevice/
+
+# 测试/对比产物
+focus_test/
+focus_test2/
+apk_compare/
+*.png
 
 # 运行日志
 *.log
