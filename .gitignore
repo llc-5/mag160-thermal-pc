@@ -3,6 +3,7 @@
 
 # 主程序目录（412MB，由 mag160-pc/release.py 生成）
 MagViewerPC_v7/
+MagViewerPC_v7_old/
 
 # 单文件版（157MB，超过 GitHub 硬限制 100MB）
 MAG160热像仪-单文件.exe
